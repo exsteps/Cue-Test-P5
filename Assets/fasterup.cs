@@ -11,7 +11,7 @@ public class fasterup : MonoBehaviour
     // Use this for initialization
     void Start()
     {
-        maxuSpeed = 30;
+        maxuSpeed = 15;
 
         startuPosition = transform.position;
     }
