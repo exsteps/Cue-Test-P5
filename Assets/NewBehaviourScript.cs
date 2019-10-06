@@ -4,10 +4,12 @@ using UnityEngine;
 
 public class NewBehaviourScript : MonoBehaviour
 {
+    Rigidbody rb;
+
     // Start is called before the first frame update
     void Start()
     {
-
+        rb = GetComponent<Rigidbody>();
     }
 
     // Update is called once per frame
@@ -33,7 +35,9 @@ public class NewBehaviourScript : MonoBehaviour
             transform.Rotate(1, 0, 0);
         }
 
+        rb.constraints = RigidbodyConstraints.FreezePositionZ;
 
+        
     }
 }
     
