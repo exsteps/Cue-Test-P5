@@ -34,7 +34,8 @@ public class NewBehaviourScript : MonoBehaviour
         {
             transform.Rotate(1, 0, 0);
         }
-
+        
+         
         rb.constraints = RigidbodyConstraints.FreezePositionZ;
 
         
