@@ -68,6 +68,7 @@
     <Compile Include="Assets\Ballswitchx.cs" />
     <Compile Include="Assets\fasterup.cs" />
     <Compile Include="Assets\NewBehaviourScript.cs" />
+    <Compile Include="Assets\RandomMove.cs" />
     <Compile Include="Assets\SideScript.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\Benchmark01.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\Benchmark01_UGUI.cs" />
