@@ -317,7 +317,7 @@ GameObject:
   - component: {fileID: 366609171}
   - component: {fileID: 366609172}
   m_Layer: 0
-  m_Name: v
+  m_Name: 1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -527,7 +527,7 @@ GameObject:
   - component: {fileID: 417998184}
   - component: {fileID: 417998189}
   m_Layer: 0
-  m_Name: b
+  m_Name: 4
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -645,7 +645,7 @@ GameObject:
   - component: {fileID: 468470371}
   - component: {fileID: 468470369}
   m_Layer: 0
-  m_Name: c
+  m_Name: 5
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -961,7 +961,7 @@ MeshRenderer:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 479594499}
-  m_Enabled: 1
+  m_Enabled: 0
   m_CastShadows: 1
   m_ReceiveShadows: 1
   m_DynamicOccludee: 1
@@ -1028,7 +1028,7 @@ GameObject:
   - component: {fileID: 555357354}
   - component: {fileID: 555357352}
   m_Layer: 0
-  m_Name: x
+  m_Name: 2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1133,7 +1133,7 @@ GameObject:
   - component: {fileID: 582236495}
   - component: {fileID: 582236499}
   m_Layer: 0
-  m_Name: z
+  m_Name: 3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1442,7 +1442,7 @@ GameObject:
   - component: {fileID: 709860327}
   - component: {fileID: 709860326}
   m_Layer: 0
-  m_Name: v
+  m_Name: 1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1472,7 +1472,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1cb47cb1770a45b4eab64ea488f01d23, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 700
+  speed: 900
 --- !u!135 &709860328
 SphereCollider:
   m_ObjectHideFlags: 0
@@ -1561,7 +1561,7 @@ GameObject:
   - component: {fileID: 743380532}
   - component: {fileID: 743380537}
   m_Layer: 0
-  m_Name: b
+  m_Name: 4
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1680,7 +1680,7 @@ GameObject:
   - component: {fileID: 771081431}
   - component: {fileID: 771081436}
   m_Layer: 0
-  m_Name: b
+  m_Name: 4
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1798,7 +1798,7 @@ GameObject:
   - component: {fileID: 794414516}
   - component: {fileID: 794414520}
   m_Layer: 0
-  m_Name: z
+  m_Name: 3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2312,7 +2312,7 @@ GameObject:
   - component: {fileID: 1103616995}
   - component: {fileID: 1103616993}
   m_Layer: 0
-  m_Name: x
+  m_Name: 2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2417,7 +2417,7 @@ GameObject:
   - component: {fileID: 1146192327}
   - component: {fileID: 1146192326}
   m_Layer: 0
-  m_Name: n
+  m_Name: 6
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2522,7 +2522,7 @@ GameObject:
   - component: {fileID: 1196246919}
   - component: {fileID: 1196246923}
   m_Layer: 0
-  m_Name: z
+  m_Name: 3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2627,7 +2627,7 @@ GameObject:
   - component: {fileID: 1322592448}
   - component: {fileID: 1322592447}
   m_Layer: 0
-  m_Name: n
+  m_Name: 6
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2915,7 +2915,7 @@ GameObject:
   - component: {fileID: 1552692831}
   - component: {fileID: 1552692832}
   m_Layer: 0
-  m_Name: v
+  m_Name: 1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3126,7 +3126,7 @@ GameObject:
   - component: {fileID: 1591180411}
   - component: {fileID: 1591180409}
   m_Layer: 0
-  m_Name: c
+  m_Name: 5
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3231,7 +3231,7 @@ GameObject:
   - component: {fileID: 1775444406}
   - component: {fileID: 1775444405}
   m_Layer: 0
-  m_Name: n
+  m_Name: 6
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3429,7 +3429,7 @@ GameObject:
   - component: {fileID: 1864169639}
   - component: {fileID: 1864169637}
   m_Layer: 0
-  m_Name: x
+  m_Name: 2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3559,7 +3559,7 @@ MeshRenderer:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1933120119}
-  m_Enabled: 1
+  m_Enabled: 0
   m_CastShadows: 1
   m_ReceiveShadows: 1
   m_DynamicOccludee: 1
@@ -3902,7 +3902,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2009848958}
   m_LocalRotation: {x: 0, y: 0, z: 1, w: 0}
-  m_LocalPosition: {x: 0, y: 20000, z: 0}
+  m_LocalPosition: {x: 0, y: 15000, z: 0}
   m_LocalScale: {x: 2000, y: 2000, z: 2000}
   m_Children: []
   m_Father: {fileID: 0}
@@ -3922,7 +3922,7 @@ GameObject:
   - component: {fileID: 2081702540}
   - component: {fileID: 2081702538}
   m_Layer: 0
-  m_Name: c
+  m_Name: 5
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0

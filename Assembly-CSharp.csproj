@@ -62,12 +62,12 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\Buttons\Ballsswitchz.cs" />
-    <Compile Include="Assets\Buttons\Ballswitchb.cs" />
-    <Compile Include="Assets\Buttons\Ballswitchc.cs" />
-    <Compile Include="Assets\Buttons\Ballswitchn.cs" />
-    <Compile Include="Assets\Buttons\Ballswitchv.cs" />
-    <Compile Include="Assets\Buttons\Ballswitchx.cs" />
+    <Compile Include="Assets\Buttons\keypad1.cs" />
+    <Compile Include="Assets\Buttons\keypad2.cs" />
+    <Compile Include="Assets\Buttons\keypad3.cs" />
+    <Compile Include="Assets\Buttons\keypad4.cs" />
+    <Compile Include="Assets\Buttons\keypad5.cs" />
+    <Compile Include="Assets\Buttons\keypad6.cs" />
     <Compile Include="Assets\fasterup.cs" />
     <Compile Include="Assets\NewBehaviourScript.cs" />
     <Compile Include="Assets\RandomMove.cs" />
