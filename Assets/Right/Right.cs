@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class RandomMovement : MonoBehaviour
+public class Right : MonoBehaviour
 {
     public float speed;
     Vector3 temp;
@@ -15,7 +15,7 @@ public class RandomMovement : MonoBehaviour
 
     void SetRandomPos()
     {
-        temp = new Vector3(Random.Range(5000f, 7000f), Random.Range(300f, 1000f), Random.Range(-1000f, 1000f));
+        temp = new Vector3(Random.Range(6000f, 6000f), Random.Range(300f, 1000f), Random.Range(-4000f, -6000f));
         //GetComponent<Rigidbody>().MovePosition(temp);
     }
 

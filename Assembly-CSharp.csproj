@@ -11,7 +11,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{612A099F-3C74-2D43-77DA-E2F911ADA764}</ProjectGuid>
+    <ProjectGuid>{D8EE380A-291C-5E8C-DCD9-456B6F7B03BF}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -62,6 +62,15 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Buttons\A1.cs" />
+    <Compile Include="Assets\Buttons\A2.cs" />
+    <Compile Include="Assets\Buttons\A3.cs" />
+    <Compile Include="Assets\Buttons\A4.cs" />
+    <Compile Include="Assets\Buttons\A5.cs" />
+    <Compile Include="Assets\Buttons\A6.cs" />
+    <Compile Include="Assets\Buttons\A7.cs" />
+    <Compile Include="Assets\Buttons\A8.cs" />
+    <Compile Include="Assets\Buttons\A9.cs" />
     <Compile Include="Assets\Buttons\keypad1.cs" />
     <Compile Include="Assets\Buttons\keypad2.cs" />
     <Compile Include="Assets\Buttons\keypad3.cs" />
@@ -72,9 +81,10 @@
     <Compile Include="Assets\Buttons\keypad8.cs" />
     <Compile Include="Assets\Buttons\keypad9.cs" />
     <Compile Include="Assets\fasterup.cs" />
+    <Compile Include="Assets\Left\RandomMove.cs" />
+    <Compile Include="Assets\Mid\RandomMovement.cs" />
     <Compile Include="Assets\NewBehaviourScript.cs" />
-    <Compile Include="Assets\RandomMove.cs" />
-    <Compile Include="Assets\RandomMovement.cs" />
+    <Compile Include="Assets\Right\Right.cs" />
     <Compile Include="Assets\SideScript.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\Benchmark01.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\Benchmark01_UGUI.cs" />
@@ -134,31 +144,31 @@
     <None Include="Assets\TextMesh Pro\Resources\Shaders\TMP_Sprite.shader" />
     <None Include="Assets\TextMesh Pro\Resources\Shaders\TMP_SDF-Surface.shader" />
     <Reference Include="Unity.Timeline.Editor">
-      <HintPath>C:/Users/Ejer/Cue Test P5/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
+      <HintPath>C:/Users/alexa/OneDrive/Dokumenter/Unity/Cue-Test-P5/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VSCode.Editor">
-      <HintPath>C:/Users/Ejer/Cue Test P5/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
+      <HintPath>C:/Users/alexa/OneDrive/Dokumenter/Unity/Cue-Test-P5/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro.Editor">
-      <HintPath>C:/Users/Ejer/Cue Test P5/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+      <HintPath>C:/Users/alexa/OneDrive/Dokumenter/Unity/Cue-Test-P5/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.UI">
-      <HintPath>C:/Users/Ejer/Cue Test P5/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
+      <HintPath>C:/Users/alexa/OneDrive/Dokumenter/Unity/Cue-Test-P5/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Timeline">
-      <HintPath>C:/Users/Ejer/Cue Test P5/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
+      <HintPath>C:/Users/alexa/OneDrive/Dokumenter/Unity/Cue-Test-P5/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
     </Reference>
     <Reference Include="Unity.CollabProxy.Editor">
-      <HintPath>C:/Users/Ejer/Cue Test P5/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
+      <HintPath>C:/Users/alexa/OneDrive/Dokumenter/Unity/Cue-Test-P5/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Rider.Editor">
-      <HintPath>C:/Users/Ejer/Cue Test P5/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
+      <HintPath>C:/Users/alexa/OneDrive/Dokumenter/Unity/Cue-Test-P5/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro">
-      <HintPath>C:/Users/Ejer/Cue Test P5/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+      <HintPath>C:/Users/alexa/OneDrive/Dokumenter/Unity/Cue-Test-P5/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.UI">
-      <HintPath>C:/Users/Ejer/Cue Test P5/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
+      <HintPath>C:/Users/alexa/OneDrive/Dokumenter/Unity/Cue-Test-P5/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AIModule">
       <HintPath>C:/Program Files/Unity/Hub/Editor/2019.2.9f1/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
