@@ -15,7 +15,7 @@ public class RandomMove : MonoBehaviour
 
     void SetRandomPos()
     {
-        temp = new Vector3(Random.Range(5000f, 7000f), Random.Range(300f, 500f), Random.Range(4000f, 6000f));
+        temp = new Vector3(Random.Range(5000f, 7000f), Random.Range(300f, 700f), Random.Range(4000f, 6000f));
         //GetComponent<Rigidbody>().MovePosition(temp);
     }
 

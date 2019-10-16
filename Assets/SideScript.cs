@@ -24,7 +24,7 @@ public class SideScript : MonoBehaviour
 
     void MoveVertical()
     {
-        transform.position = new Vector3(transform.position.x, startPosition.y, transform.position.z + (Mathf.Sin(Time.time * maxSpeed) *7));
+        transform.position = new Vector3(transform.position.x, startPosition.y, transform.position.z + (Mathf.Sin(Time.time * maxSpeed) *40));
 
         if (transform.position.z > 5.0f)
         {

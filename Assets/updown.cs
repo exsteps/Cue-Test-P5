@@ -24,7 +24,7 @@ public class updown : MonoBehaviour
 
     void MoveVertical()
     {
-        transform.position = new Vector3(transform.position.x, startPosition.y + (Mathf.Sin(Time.time * maxSpeed)*50), transform.position.z);
+        transform.position = new Vector3(transform.position.x, startPosition.y + (Mathf.Sin(Time.time * maxSpeed)*400), transform.position.z);
 
         if (transform.position.y >5.0f)
         {
